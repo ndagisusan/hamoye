@@ -1,8 +1,8 @@
-# Hamoye Git tutorial for Data Science/DevOps
+# Hamoye Git tutorial for Data Science / DevOps
 
 ## Topics covered:
-git commands
-.gitignore file
-git log
-git checkout to a commit
-git remote -v
+<ul>git commands</ul>
+<ul>.gitignore file</ul>
+<ul>git log</ul>
+<ul>git checkout to a commit</ul>
+<ul>git remote -v</ul>
